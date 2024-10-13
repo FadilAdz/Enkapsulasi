@@ -1,4 +1,5 @@
-# Enkapsulasi
+# Enkapsulasi / Encapsulation
+<img src=https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg width="120px">
 
 Enkapsulasi adalah prinsip di dalam pemrograman dengan teknik OOP atau Object- Oriented Programming yang umum diterapkan di sejumlah model maupun bahasa pemrograman, seperti proses hosting website, REST API sampai bahasa pemrograman Java.
 
