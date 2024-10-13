@@ -83,8 +83,8 @@ java Main
 
 Perintah ```javac``` berfungsi untuk mengompilasi file sumber bahasa pemrograman Java menjadi file kelas yang dapat berjalan di <b>Java Virtual Machine (JVM)</b>.<br> <br>
 
-Dan menghasilkan output seperti berikut :
-![img](P4/assets/output.png)
+Dan menghasilkan output seperti berikut : <br> <br>
+![img](P4/assets/output.png) <br>
 
 #### Penjelasannya :
 1. Kita membuat dua file Java, yaitu <b>Person.java</b> dan <b>Main.java</b>.
